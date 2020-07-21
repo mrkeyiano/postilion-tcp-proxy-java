@@ -5,4 +5,4 @@
 -DremotePort=43666 \
 -Dport=43666 \
 -Dfile.encoding=UTF-8 \
--jar /opt/app/tcp-proxy.jar
+-jar build/libs/tcp-proxy.jar
